@@ -1,8 +1,9 @@
 {
     "name": "impaction-theme",
-    "displayName": "impaction-theme",
+    "displayName": "Impaction Theme",
     "description": "",
-    "version": "0.0.1",
+    "icon": "img/icon.jpg",
+    "version": "0.1.0",
     "publisher": "itroeix",
     "repository": {
         "type": "git",
