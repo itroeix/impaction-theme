@@ -1,0 +1,33 @@
+{
+    "name": "impaction-theme",
+    "displayName": "impaction-theme",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "itroeix",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/itroeix/impaction-theme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "impaction",
+        "impaction theme",
+        "impaction dark"
+    ],
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Impaction Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Impaction Theme-color-theme.json"
+            }
+        ]
+    }
+}
